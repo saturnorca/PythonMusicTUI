@@ -163,7 +163,6 @@ class MyApp(App):
         self.push_screen('add')
     @on(Button.Pressed, "#create_playlist")
     def on_create(self):
-        amg.create(self.createValue)
         self.push_screen('create')
     @on(Select.Changed, "#plist_select")
     def on_plist_select(self, event: Select.Changed):
@@ -181,4 +180,5 @@ class MyApp(App):
 if __name__ == "__main__":
     app = MyApp()
     app.run()
+
 
