@@ -14,3 +14,4 @@ Only windows is upoorted with this application
 3. pathlib
 4. pygame
 5. textual
+6. pydub
