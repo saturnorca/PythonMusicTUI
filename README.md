@@ -1,5 +1,5 @@
 # PythonMusicTUI
-
+![Python Music Text-Based User Interface.](https://raw.githubusercontent.com/saturnorca/PythonMusicTUI/refs/heads/main/example_1.png)
 ## Features
 🎵 This application will shuffle a selectable playlist of music that the user chooses.  
 📃 Playlists are created from a user inputted name and are stored in the 'Plist' directory on the users computer  
