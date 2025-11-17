@@ -1,0 +1,84 @@
+
+#title{
+    text-align: center;
+}
+#play_container{
+    align: center middle;
+    
+    padding: 1;
+    height:auto;
+
+}
+#select_container{
+    align:center middle;
+    height:auto;
+
+}
+#plist_select{
+    width:40;
+}
+#F55{
+
+    height:1;
+    margin: 1;
+}
+#edit_container{
+    align:right bottom;
+    height: auto;
+    dock: bottom;
+
+}
+#playing_title_container{
+    height: auto;
+    padding:1;
+}
+#select_container_add{
+    align:center middle;
+    height:auto;
+
+    height:auto;
+}
+#plist_select_add{
+    width:40;
+}
+#plist_name_add{
+    width: 60;
+}
+#plist_name_add_container{
+    align: center middle;
+    margin:1;
+    
+    height:auto;
+}
+#add_confirm_container{
+    align: center middle;
+}
+#create_plist_input{
+    width: 60;
+}
+#create_plist_input_container{
+    align: center middle;
+    margin:1;
+    
+    height:auto;
+}
+#create_confirm_container{
+    align: center middle;
+    margin:1;
+    
+    height:auto;
+}
+#playing_title{
+    text-align: center;
+}
+#pause_container{
+    align:center middle;
+    height:auto;
+    padding: 1;
+}
+#add_music{
+    margin:1;
+}
+#create_playlist{
+    margin:1;
+}
